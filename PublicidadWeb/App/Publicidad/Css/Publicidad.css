@@ -1,0 +1,39 @@
+﻿.AngelHack{
+    width: 200px;
+    height: 200px;
+}
+
+.oferIcon {
+    margin-left: 25px;
+    width: 200px;
+    height: 150px;
+}
+
+.btnFacebook {
+    width: 260px;
+    height: 55px;
+}
+
+.btnHome {
+    margin:5%;
+    width: 100px;
+    height: 100px;
+    border: solid;
+    border-color: #f8f0f0;
+    border-radius: 50px;
+    position: absolute;
+    z-index: 999;
+}
+
+.ancho {
+    margin: 0.4% 0 0 0.4%;
+    width: 98%;
+}
+
+.MargenModal {
+    margin-top: 10%;
+}
+
+.izq { 
+    float:left;
+}
